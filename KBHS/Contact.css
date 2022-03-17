@@ -1,0 +1,20 @@
+a:link1 {
+font-weight: 1000;
+text-align: center;
+font-size: 30px;
+}
+hr {
+color: green;
+}
+p {
+background-color: olive;
+color: blue;
+font-size: 30px;
+}
+body {
+background-image:linear-gradient(to right,teal,white,teal);
+}
+a {
+font-weight: 1000;
+font-size: 30px;
+}

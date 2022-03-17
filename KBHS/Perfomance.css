@@ -1,0 +1,12 @@
+body {
+background-image:linear-gradient(to right,teal,white,teal);
+}
+p {
+background-color: olive;
+color: blue;
+font-size: 30px;
+}
+hr {
+font-size: 30px;
+color: blue;
+}

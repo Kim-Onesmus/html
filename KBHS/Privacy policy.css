@@ -1,0 +1,8 @@
+body {
+background-image:linear-gradient(to right,teal,white,teal)
+}
+p {
+color: blue;
+background-color: olive;
+font-size: 30px;
+}

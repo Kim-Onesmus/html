@@ -1,0 +1,23 @@
+p {
+text-align: center;
+font-size: 30px;
+background-color:olive;
+text-decoration:none;
+height:50px;
+width: 85%;
+color:brown;
+}
+body {
+background-image:linear-gradient(to right,gray,gray);
+}
+a {
+text-decoration: none;
+color: black;
+font-size: 30px;
+}
+hr {
+color: blue;
+}
+h2 {
+color: blue;
+}
